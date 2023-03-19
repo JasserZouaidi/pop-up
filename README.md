@@ -1,5 +1,3 @@
-# pop-up
-## Pop up form to send a message to any email
 
 ![icon](https://user-images.githubusercontent.com/99995087/221430535-104b096a-cb6b-461f-a527-8c74c16ada6b.gif)
 ![failed](https://user-images.githubusercontent.com/99995087/221430571-5025ab98-39a3-4c36-b34e-4ce7181b965c.gif)
